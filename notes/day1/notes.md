@@ -1,0 +1,1 @@
+human hearing is logarithmic — small signals matter more than large ones.
